@@ -1,4 +1,4 @@
-<img align="center" src="https://mcdn.wallpapersafari.com/medium/53/40/xIv6Km.jpg" height="350" width="1050" />
+<!--<img align="center" src="https://mcdn.wallpapersafari.com/medium/53/40/xIv6Km.jpg" height="350" width="1050" />-->
 
 <h1 align="center">Hi 👋, I'm Jecky</h1>
 <h3 align="center">A Passionate Android Developer 📱</h3>
