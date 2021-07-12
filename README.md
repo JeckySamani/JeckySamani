@@ -8,7 +8,7 @@
 
 - 📱 Android Developer
 
-- 💡 I love to explore new technologies
+- 💡 I love to explore new technologies.
 
 - ⚡ Fun fact I like to playing game.
 
